@@ -1,6 +1,5 @@
 let livros = [];
 const endPointAPI = 'https://guilhermeonrails.github.io/casadocodigo/livros.json';
-
 buscaLivrosAPI();
 
 async function buscaLivrosAPI(){
